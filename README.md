@@ -19,6 +19,4 @@ please run: docker pull ap88/python-flask:002
 2 - unzip the attached folder and navigate into it, 
 And run the docker-compose.yaml file with the following command: docker-compose up -d
 
-3 - Launch the container with the following command: docker-compose up -d
-
-4 - Access the application: Open your browser and navigate to http://localhost:5000
+3 - Access the application: Open your browser and navigate to http://localhost:5000
